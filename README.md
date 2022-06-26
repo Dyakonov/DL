@@ -73,8 +73,8 @@
 | **Распознавание речи: end2end-подход** | Напрашивающиеся нейросетевые подходы. CTC (Connectionist Temporal Classification). Разметка (Alignment). RNN-transducer. Listen, Attend and Spell (LAS). Attention-based models. Deep Fusion, Cold Fusion. Spelling correction модель. Wav2Letter. Wav2Letter++. CAPIO. |
 | **Синтез речи** | Вокодеры, модели, контекст |
 | **Metric Learning** | Contrastive Loss. Triplet Loss. Quadruplet Loss. Structured Loss. Center Loss. Modified SoftMax Loss. SphereFace (A-softmax). CosFace (LMCL). ArcFace. |
-| **Капсульные сети ** | ... |
-| **Графовые НС   ** | Представление графа. Нейронное распространение (Neural Message Passing). GraphSAGE. PinSage. Generalized Neighborhood Aggregation. Neighborhood Attention: Graph Attention Network (GAT). DEEPGCNS. Jumping Knowledge Connections. Graph Pooling. Использование GNN. Генеративные графовые модели. GGNN (GATED GRAPH NEURAL NETWORKS).  |
+| **Капсульные сети** | ... |
+| **Графовые НС** | Представление графа. Нейронное распространение (Neural Message Passing). GraphSAGE. PinSage. Generalized Neighborhood Aggregation. Neighborhood Attention: Graph Attention Network (GAT). DEEPGCNS. Jumping Knowledge Connections. Graph Pooling. Использование GNN. Генеративные графовые модели. GGNN (GATED GRAPH NEURAL NETWORKS).  |
 
 
 
