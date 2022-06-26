@@ -8,6 +8,9 @@
 ### видео
 плейлист с записями лекций: https://www.youtube.com/playlist?list=PLaRUeIuewv8BYOrm6HBgJKbGUD-jcBQpW
 
+### эссе-конспекты
+https://github.com/Dyakonov/DL/tree/master/ESSE_2021
+
 ### семинары
 не выложены
 
