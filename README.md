@@ -14,6 +14,8 @@ https://github.com/Dyakonov/DL/tree/master/ESSE_2021
 ### семинары
 не выложены
 
+[Вопросы для тестов](https://github.com/Dyakonov/BOOKs/blob/main/DLtest_Dyakonov.pdf)
+
 ### проекты студентов
 не выложены
 
