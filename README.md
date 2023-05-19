@@ -2,7 +2,7 @@
 * образовательный проект по глубокому обучению
 * лектор: [Александр Дьяконов](https://dyakonov.org/ag/)
 * читался как кафедральный курс на факультете ВМК, МГУ имени М.В. Ломоносова для бакалавров 317 группа (2019-2022)
-* часть лекций легла в основу курса программы ОзонМастерс
+* часть лекций легла в основу курса программы ОзонМастерс / [AIMasters](https://aimasters.ru/)
 
 
 ### видео
@@ -44,7 +44,7 @@ https://github.com/Dyakonov/DL/tree/master/ESSE_2021
 | [**Обучение без учителя**](2020/DL2020_051unsup_08n.pdf) |  [видео часть 1](https://youtu.be/F6SllsSVgY8), [видео часть 2](https://youtu.be/iLU9D_mRZ3o) | Автокодировщики (Auto-encoders). Глубокие автокодировщики. Denoising Autoencoder. Сокращающие автокодировщики – Contractive Autoencoders (CAE). Предобучение с помощью автокодировщика (раньше так делали). Sparse Coding. Context Encoders. Использование RBM. Глубокие RBM (Deep Boltzmann Machines). SOM – Самоорганизующиеся карты Кохонена. Сжатие. Генеративная модель. Проблема оценки плотности. Решения для оценки плотности. Авторегрессионные модели. Masked Autoencoder for Distribution Estimation (MADE). Masked Temporal (1D) Convolution. Masked Spatial (2D) Convolution: PixelCNN, PIXELCNN++, PixelSNAIL, PixelRNN. Masked Attention + Convolution. Поток (Glow): real NVP, Glow. Авторегрессионные потоки (Autoregressive Flows) |
 | [**Вариационный автокодировщик**](2020/DL2020_052vae_06n.pdf) |  [видео](https://youtu.be/0BC-J9EA-v8) |  Генеративная модель. Variational Autoencoders (VAE). Variational Bayesian Inference. Reparametrizaton trick. Векторная арифметика. Conditional VAE (CVAE). Ladder Variational Autoencoders. Bidirectional-Inference Variational Autoencoder (BIVA). Vector Quantised-Variational AutoEncoder (VQ-VAE). VQ-VAE-2. VAE: Image Colorization. VAE: Forecasting from Static Images. Adversarial Autoencoder. |
 | [**Генеративные состязательные сети**](2020/DL2020_053gan_13n.pdf) | [видео](https://youtu.be/obY2JIYAHZk) | Генератор и дискриминатор. Что могут GAN. Adversarial idea. GAN: обучение – min-max-игра. Настройка GAN, советы по настройке GAN. Нестабильность «non-saturating  game». GAN: первые примеры. Обучение GAN: проблемы на практике. Least Square GAN (LSGAN). Hinge loss based GAN. Wasserstein GAN (WGAN). WGAN-GP. Спектральная нормировка (Spectral Normalization): SN-GAN. Maximum Mean Discrepancy (MMD). f-GAN. Relativistic GANs (RGANs). GAN: проблемы – Mode-Collapse. Energy-Based GAN (EBGAN). Как оценивать качество (сгенерированные картинки): Inception score (IS), Mode score (MS), Fr ́echet Inception Distance (FID), Structural similarity (SSIM). Kernel MMD (Maximum Mean Discrepancy). The Wasserstein distance. The 1-Nearest Neighbor classifier. Сравнение метрик качества| 
-
+| [**Генеративные состязательные сети - часть 2**](2022/DL_4UL_04gan2_202301.pdf) | [видео](https://youtu.be/obY2JIYAHZk) | Deep Convolutional Generative Adversarial Networks (DCGAN). Условные состязательные сети (сGAN). Pix2pix c условными состязательными сетями (сGAN). pix2pixHD. Проблема отсутствия выборки - CycleGAN. Аугментированная циклическая GAN (Augmented CycleGAN. BiGAN (Bidirectional). BigGAN: Генерация изображений / интерполяция. BigBiGAN = BiGAN + BigGAN. SAGAN (Self-Attention Generative Adversarial Networks). Semi-supervised GAN (SGAN). AC-GAN: auxiliary classifier GAN. CAN: Creative Adversarial Networks. ProGAN (NVIDIA). InfoGAN. Условные GANы (Conditional GANs). Coupled GANs. | 
 
 
 
